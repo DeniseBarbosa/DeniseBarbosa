@@ -3,7 +3,7 @@
 ## :woman_technologist: Um pouquinho sobre mim:
 <div>
   <p>
-    Sou estudante, apaixonado por tecnologia, amo aprender assuntos técnicos como linguagem R, SQL, Python, machine learning, estáticas e ferramentas de visualização. Sempre estarei disposta aprender uma boa comunicação para poder explicar a solução do meu problema e como as pessoas vão utilizar o produto que estou criando através de uma mensagem simples e direta usando palavras. Eu sou apaixonada pela a solução e me foco em solucionar os problemas através das ferramentas de trabalho.
+    Sou estudante, apaixonado por tecnologia, amo aprender assuntos técnicos como linguagem R, SQL, Python, machine learning, estatísticas  e ferramentas de visualização. Sempre estarei disposta aprender uma boa comunicação para poder explicar a solução do meu problema e como as pessoas vão utilizar o produto que estou criando através de uma mensagem simples e direta usando palavras. Eu sou apaixonada pela a solução e me foco em solucionar os problemas através das ferramentas de trabalho.
   </p>
 </div>
 
