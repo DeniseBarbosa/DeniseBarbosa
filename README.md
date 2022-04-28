@@ -3,11 +3,7 @@
 ## :woman_technologist: Um pouquinho sobre mim:
 <div>
   <p>
-    Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
-    Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
-    modernos e adaptáveis (Conhecimentos em: ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
-    possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic 
-    Process Automation).
+    Sou estudante, apaixonado por tecnologia,amo aprender assuntos técnicos como linguagem R, SQL, Python, machine learning, estáticas e ferramentas de visualização. Sempre estarei disposta aprender uma boa comunicação para poder explicar a solução do meu problema e como as pessoas vão utilizar o produto que estou criando tendo a capacidade de transmitir uma mensagem simples e direta usando palavras. Eu sou apaixonada pela a solução e me foco em solucionar os problemas através das ferramentas de trabalho.
   </p>
 </div>
 
