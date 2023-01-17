@@ -1,11 +1,4 @@
-### Oi, aqui é a Denise, Estudante Superior de Tecnologia em Banco de Dados e Ciência de Dados 👋
-
-## :woman_technologist: Um pouquinho sobre mim:
-<div>
-  <p>
-    Sou estudante, apaixonado por tecnologia, amo aprender assuntos técnicos como linguagem R, SQL, Python, machine learning, estatísticas  e ferramentas de visualização. Sempre estarei disposta aprender uma boa comunicação para poder explicar a solução do meu problema e como as pessoas vão utilizar o produto que estou criando através de uma mensagem simples e direta usando palavras. Eu sou apaixonada pela a solução e me foco em solucionar os problemas através das ferramentas de trabalho.
-  </p>
-</div>
+### Oi, aqui é a Denise, Estudante de Análise e Desenvolvimento de Sistemas 👋
 
 ## 👨🏽‍💻🚀 Minhas Tecnologias  
 
@@ -13,18 +6,13 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />         
+  <img align="center" alt="C#" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+  
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
 
-Descrição   | Instituição   | Ano | Tipo
---------- | --------- | ------ | ------
-🏅 Python - Programando com a linguagem | FIT - Faculdade Impacta de Tecnologia | 2022 | Curso
-🏅 Banco de Dados SQL do Zero ao Avançado | Udemy | 2022 | Curso
-🏅 Python para Análise de Dados| Udemy | 2022 | Curso
-🏅 Projeto Case - Indicado como destaque no Expo São Judas TI| Universidade São Judas Tadeu | 2021 | Certificação
 
 ## 🌐 Minhas Redes Sociais
 
